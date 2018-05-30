@@ -4,7 +4,8 @@ Date: May 29, 2018
 Version: 1.0
 Software: Node, Axios, Nock, Chai, Mocha
 
-README
+About
+-----
 
 This application provides currency exchanges between two currencies based on rates provided by the European Central Bank. 
 All exchange rates are received through request to the API https://exchangeratesapi.io/.
