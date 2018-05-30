@@ -24,7 +24,7 @@ To run the application, follow the steps below:
 2. Open a command line interface from the dirctory.
 3. The following command structure will run the application:
 
-	npm index.js yyyy-mm-dd base_currency base_amount conversion_currency
+	node index.js yyyy-mm-dd base_currency base_amount conversion_currency
 	
 	Substitute the values in step 3 above as follows:
 
@@ -35,7 +35,7 @@ To run the application, follow the steps below:
 
 	A full example of the command is shown as follows:
 
-	npm index.js 2017-06-03 USD 100 CAD
+	node index.js 2017-06-03 USD 100 CAD
 
 4. The command line will output the result of the query. A sample output is shown below.
 
